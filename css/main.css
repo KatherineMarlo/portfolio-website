@@ -414,10 +414,12 @@ nav ul {
 
 header h1 {
   width: 100%;
+  text-align: center;
 }
 
 header h2 {
-  width: 100%
+  width: 100%;
+  text-align: center;
 }
 
 /* -------------------- Mobile Styles - Homepage -------------------- */
