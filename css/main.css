@@ -1018,12 +1018,8 @@ footer .social-icons li i {
   }
 
   /* header */
-  header .content-wrapper {
-    justify-content: flex-end;
-  }
-
+  
   header nav {
-    justify-content: flex-end;
     width: 45%;
   }
 
